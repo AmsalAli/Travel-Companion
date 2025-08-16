@@ -1,0 +1,6 @@
+# file: requirements.txt
+streamlit>=1.36
+requests>=2.31
+folium>=0.15
+streamlit-folium>=0.18
+dateparser>=1.2
